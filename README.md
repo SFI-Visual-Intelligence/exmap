@@ -1,3 +1,5 @@
+Paper: ExMap: Leveraging Explainability Heatmaps for Unsupervised Group Robustness to Spurious Correlations ([Link](https://api.nva.unit.no/publication/0198cc44676b-8d4a2e87-f541-4d3d-8aa2-b38de6f7db69))
+
 # Exmap
 This repository contains code for the paper titled "ExMap: Leveraging Explainability Heatmaps for Unsupervised Group Robustness to Spurious Correlations", published in CVPR 2024.
 
